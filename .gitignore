@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Google Colab & Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment and package folders
+env/
+venv/
+.venv/
+ENV/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Output / temporary files
+*.log
+*.out
+*.tmp
+
+# Uploaded image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.webp
+
+# Python environment files
+*.env
+*.pth
+
+# VS Code settings (optional)
+.vscode/
